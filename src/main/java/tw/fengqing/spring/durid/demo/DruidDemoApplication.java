@@ -9,7 +9,6 @@ import org.springframework.context.annotation.Configuration;
 
 import javax.sql.DataSource;
 import com.alibaba.druid.filter.Filter;
-import java.sql.Connection;
 
 @SpringBootApplication
 @Slf4j

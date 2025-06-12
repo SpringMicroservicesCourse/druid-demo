@@ -5,7 +5,7 @@
 ## 技術棧
 
 - Java 17
-- Spring Boot 3.1.5
+- Spring Boot 3.4.5
 - Druid Spring Boot 3 Starter 1.2.20
 - H2 Database (內存模式)
 - Maven
