@@ -92,3 +92,7 @@ src/main/java/tw/fengqing/spring/durid/demo/
 - 本示例使用 H2 內存數據庫，生產環境請更換為實際的數據庫
 - 生產環境部署時請更改默認的安全配置
 - 建議根據實際需求調整連接池參數
+
+## 授權說明
+
+本專案採用 MIT 授權條款，詳見 LICENSE 檔案。 
